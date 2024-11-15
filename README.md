@@ -1,4 +1,4 @@
-# main-py-repo
+# main.py repo
 - Example import the code in the `main.py` file
 
 - <b>Example</b>: `main.py`
